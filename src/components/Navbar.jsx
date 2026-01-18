@@ -10,7 +10,7 @@ export default function Navbar({
 
   return (
     <div className="navbar">
-      <div className="logo">🌲 WoodNest</div>
+      <div className="logo">🌲 DemoBnb</div>
 
       <div className={`nav-links ${open ? "show" : ""}`}>
         <button onClick={onAboutClick}>Locations</button>
