@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer-top">
         {/* LEFT */}
         <div className="footer-brand">
-          <h2>🌲 WoodNest</h2>
+          <h2>🌲 DemoBnb</h2>
           <p>
             Experience peaceful stays surrounded by nature,
             comfort and unforgettable memories.
