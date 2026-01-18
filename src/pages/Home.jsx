@@ -90,7 +90,7 @@ export default function Home() {
               }
             >
               <img
-                src="src\images\map-preview.png"
+                src="https://cdn.prod.website-files.com/5c29380b1110ec92a203aa84/66e5ce469b48938aa34d8684_Google%20Maps%20-%20Compressed.jpg"
                 alt="map"
                 className="map-img"
               />
