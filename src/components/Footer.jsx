@@ -40,7 +40,7 @@ export default function Footer() {
 
       {/* BOTTOM */}
       <div className="footer-bottom">
-        © {new Date().getFullYear()} WoodNest. All rights reserved.
+        © {new Date().getFullYear()} DemoBnb. All rights reserved.
       </div>
     </footer>
   );
